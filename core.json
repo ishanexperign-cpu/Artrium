@@ -1,0 +1,57 @@
+{
+ "section": {
+  "id": "structure",
+  "label": "Structure and lighting"
+ },
+ "groups": [
+  {
+   "id": "stairs",
+   "label": "Stairs",
+   "icon": "stat-up",
+   "stairs": true
+  },
+  {
+   "id": "lighting",
+   "label": "Lighting",
+   "icon": "light-bulb",
+   "items": [
+    "spot",
+    "track",
+    "surface",
+    "cove",
+    "pendant"
+   ]
+  },
+  {
+   "id": "people",
+   "label": "People and ceiling",
+   "icon": "walking",
+   "items": [
+    "human",
+    "skylight"
+   ]
+  },
+  {
+   "id": "wallfinish",
+   "label": "Wall panels",
+   "icon": "frame-simple",
+   "items": [
+    "wpanel"
+   ]
+  },
+  {
+   "id": "shapes",
+   "label": "Shapes",
+   "icon": "cube",
+   "items": [
+    "box",
+    "sphere",
+    "cylinder",
+    "cone",
+    "pyramid",
+    "tube",
+    "helix"
+   ]
+  }
+ ]
+}

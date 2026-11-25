@@ -1,0 +1,13 @@
+{
+ "name": "Artrium library",
+ "version": 1,
+ "about": "Edit these files to add or change objects. Positions and sizes are fractions of the object's width, height and depth, or expressions in metres using w, d and h.",
+ "files": [
+  "core.json",
+  "furniture.json",
+  "storage.json",
+  "decor.json",
+  "bathroom.json",
+  "kitchen.json"
+ ]
+}
